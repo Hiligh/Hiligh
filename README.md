@@ -20,6 +20,6 @@
 ### Visitors!
 <p align="center"><img align="left"  src="https://profile-counter.glitch.me/{hiligh}/count.svg" /></p> 
 <br>
-</div>
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+</div><br><br>
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)<br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d0e09&height=120&section=footer"/>
