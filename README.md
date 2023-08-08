@@ -1,11 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d0e09&height=120&section=header"/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hiligh&show_icons=true&count_private=true&hide_border=true&title_color=de6e36&locale=pt-br&icon_color=de6e36&text_color=ecaa40&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiligh&locale=pt-br&layout=compact&hide_border=true&title_color=de6e36&text_color=ecaa40&bg_color=0d1117" />
+  <img width="51%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=hiligh&show_icons=true&count_private=true&hide_border=true&title_color=de6e36&locale=pt-br&icon_color=de6e36&text_color=ecaa40&bg_color=0d1117&langs_count=10&layout=donut" />
+  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hiligh&locale=pt-br&layout=compact&hide_border=true&title_color=de6e36&text_color=ecaa40&bg_color=0d1117&show_icons=true&icon_color=de6e36" />
 </div><br><br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hiligh&bg_color=5d0e09&color=fadf4d&line=fadf4d&point=de6e36&area=true&hide_border=true&title_color=fadf4d&area_color=fadf4d)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### Contact Me
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/breno-oliveira-26149820b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/breno-oliveira-26149820b/" height="30" width="40" /></a>
