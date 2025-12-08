@@ -2,13 +2,13 @@
 
 ### Olá, pessoal 👋
 
-Sou **[Breno]**, um Desenvolvedor FullStack morando na **[Paraíba]**!.
+Sou **Breno**, um Desenvolvedor FullStack morando na **Paraíba**!.
 
-Trabalho principalmente com — **React**, **TailwindCSS**, **Next.js**  e um pouco de **[Framer Motion]** para o front-end.
+Trabalho principalmente com — **React**, **TailwindCSS**, **Next.js**  e um pouco de **Framer Motion** para o front-end.
 
 E para o back-end, gosto de utilizar - **Spring boot**, **Express**, **Flask** com **PostgreSQL** ou **MySQL**.
 
-Também uso **[Figma]** para design, **[Excalidraw]** ou **[Draw.io]**  quando preciso rascunhar ideias ou desenvolver ideias mais complexas com diagramas.
+Também uso **Figma** para design, **Excalidraw** ou **Draw.io**  quando preciso rascunhar ideias ou desenvolver ideias mais complexas com diagramas.
 
 Este é um perfil recente onde vou subir alguns projetos menores, experimentos e coisas nas quais estou trabalhando no momento. Tudo aqui é construído do zero, sem templates prontos.
 
