@@ -2,7 +2,7 @@
 
 ### Olá, pessoal 👋
 
-Sou **Breno**, um Desenvolvedor FullStack morando na **Paraíba**!.
+Sou **Breno**, um Desenvolvedor FullStack morando na **Paraíba**.
 
 Trabalho principalmente com — **React**, **TailwindCSS**, **Next.js**  e um pouco de **Framer Motion** para o front-end.
 
@@ -16,7 +16,7 @@ Este é um perfil recente onde vou subir alguns projetos menores, experimentos e
 
 ### ⚒️ Ferramentas & Tech
 
-* React, React Native, TailWindCSS, Next.js, HTML, CSS, Booststrap, JavaScript/TypeScript e Framer Motion.
+* React, React Native, TailWindCSS, Next.js, HTML, CSS, Booststrap, Vite, JavaScript/TypeScript e Framer Motion.
 * Spring boot, Express, Flask, Python, Java.
 * MySQL, PostgreSQL, Linux, Docker, Postman, Insomnia.
 * Figma, Excalidraw, Draw.io, Miro.
